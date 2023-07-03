@@ -1,0 +1,39 @@
+C:\Users\huawei\Desktop\C#\Armstrong hesaplama ve bulma\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\huawei\Desktop\C#\Armstrong hesaplama ve bulma\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\huawei\Desktop\C#\Armstrong hesaplama ve bulma\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\huawei\Desktop\C#\Armstrong hesaplama ve bulma\WindowsFormsApp1\obj\Debug\Armstrong_sayive_bulucu.csproj.AssemblyReference.cache
+C:\Users\huawei\Desktop\C#\Armstrong hesaplama ve bulma\WindowsFormsApp1\obj\Debug\Armstrong_sayive_bulucu.csproj.SuggestedBindingRedirects.cache
+C:\Users\huawei\Desktop\C#\Armstrong hesaplama ve bulma\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\huawei\Desktop\C#\Armstrong hesaplama ve bulma\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\huawei\Desktop\C#\Armstrong hesaplama ve bulma\WindowsFormsApp1\obj\Debug\Armstrong_sayive_bulucu.csproj.GenerateResource.cache
+C:\Users\huawei\Desktop\C#\Armstrong hesaplama ve bulma\WindowsFormsApp1\obj\Debug\Armstrong_sayive_bulucu.csproj.CoreCompileInputs.cache
+C:\Users\huawei\Desktop\C#\Armstrong hesaplama ve bulma\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\huawei\Desktop\C#\Armstrong hesaplama ve bulma\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\huawei\Desktop\Projelerim\Armstrong hesaplama ve bulma\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\huawei\Desktop\Projelerim\Armstrong hesaplama ve bulma\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\huawei\Desktop\Projelerim\Armstrong hesaplama ve bulma\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\huawei\Desktop\Projelerim\Armstrong hesaplama ve bulma\WindowsFormsApp1\obj\Debug\Armstrong_sayive_bulucu.csproj.AssemblyReference.cache
+C:\Users\huawei\Desktop\Projelerim\Armstrong hesaplama ve bulma\WindowsFormsApp1\obj\Debug\Armstrong_sayive_bulucu.csproj.SuggestedBindingRedirects.cache
+C:\Users\huawei\Desktop\Projelerim\Armstrong hesaplama ve bulma\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\huawei\Desktop\Projelerim\Armstrong hesaplama ve bulma\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\huawei\Desktop\Projelerim\Armstrong hesaplama ve bulma\WindowsFormsApp1\obj\Debug\Armstrong_sayive_bulucu.csproj.GenerateResource.cache
+C:\Users\huawei\Desktop\Projelerim\Armstrong hesaplama ve bulma\WindowsFormsApp1\obj\Debug\Armstrong_sayive_bulucu.csproj.CoreCompileInputs.cache
+C:\Users\huawei\Desktop\Projelerim\Armstrong hesaplama ve bulma\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\huawei\Desktop\Projelerim\Armstrong hesaplama ve bulma\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\huawei\Desktop\Projelerim\Armstrong hesaplama ve bulma\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Sayı_genel_hesaplama.resources
+D:\C# kurs\Projelerim\Armstrong hesaplama ve bulma\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\C# kurs\Projelerim\Armstrong hesaplama ve bulma\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\C# kurs\Projelerim\Armstrong hesaplama ve bulma\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\C# kurs\Projelerim\Armstrong hesaplama ve bulma\WindowsFormsApp1\obj\Debug\Armstrong_sayive_bulucu.csproj.AssemblyReference.cache
+D:\C# kurs\Projelerim\Armstrong hesaplama ve bulma\WindowsFormsApp1\obj\Debug\Armstrong_sayive_bulucu.csproj.SuggestedBindingRedirects.cache
+D:\C# kurs\Projelerim\Armstrong hesaplama ve bulma\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\C# kurs\Projelerim\Armstrong hesaplama ve bulma\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\C# kurs\Projelerim\Armstrong hesaplama ve bulma\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Sayı_genel_hesaplama.resources
+D:\C# kurs\Projelerim\Armstrong hesaplama ve bulma\WindowsFormsApp1\obj\Debug\Armstrong_sayive_bulucu.csproj.GenerateResource.cache
+D:\C# kurs\Projelerim\Armstrong hesaplama ve bulma\WindowsFormsApp1\obj\Debug\Armstrong_sayive_bulucu.csproj.CoreCompileInputs.cache
+D:\C# kurs\Projelerim\Armstrong hesaplama ve bulma\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\C# kurs\Projelerim\Armstrong hesaplama ve bulma\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\C# kurs\Projelerim\Armstrong hesaplama ve bulma\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.manifest
+D:\C# kurs\Projelerim\Armstrong hesaplama ve bulma\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.application
+D:\C# kurs\Projelerim\Armstrong hesaplama ve bulma\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.manifest
+D:\C# kurs\Projelerim\Armstrong hesaplama ve bulma\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.application
